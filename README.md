@@ -12,7 +12,7 @@ My experience with computer technology has given me the dedication to pursue a c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security audit                                | <a href="https://docs.google.com/document/d/1rPdFVSSQUFXXBNgNGUdy4p0CFMZB9nuggyokI82wuVc/edit?usp=sharing">Detection Lab</a>|
+| Security audit                                | <a href="https://docs.google.com/document/d/1rPdFVSSQUFXXBNgNGUdy4p0CFMZB9nuggyokI82wuVc/edit?usp=sharing">Google Doc</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
@@ -49,5 +49,5 @@ My experience with computer technology has given me the dedication to pursue a c
 </div>
 
 ## Projects
-- Detection Lab
+- Security Audit
 - SOC Automation Project
