@@ -4,7 +4,6 @@
 I am eager to explore the cyber world and have admired the inquisitive aspect that cybersecurity requires. I thrive best when it comes to being analytical and enjoy when receptiveness is key. I care about the security and stability of not only myself but the people around me and look forward to captivating this desire throughout my cybersecurity career.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My experience with computer technology has given me the dedication to pursue a career in cybersecurity. I am excited to enter this field and explore the possibilities, currently looking for my first job as a tier 1 analyst.
 
