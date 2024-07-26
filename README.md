@@ -1,8 +1,6 @@
 # Hello, I'm Darius
 <a href="https://linkedin.com/in/darius-jones-297781319"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I am eager to explore the cyber world and have admired the inquisitive aspect that cybersecurity requires. I thrive best when it comes to being analytical and enjoy when receptiveness is key. I care about the security and stability of not only myself but the people around me and look forward to captivating this desire throughout my cybersecurity career.
 
 ## Objective
